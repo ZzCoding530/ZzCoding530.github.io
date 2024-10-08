@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://forwork-1304667505.cos.ap-nanjing.myqcloud.com/touxiang.JPG" class="floatpic" width="360" height="480">
+<img src="https://maisonaz-1304667505.cos.ap-shanghai.myqcloud.com/images/touxiang.JPG" class="floatpic" width="360" height="480">
 
 大家好,我是**周淮安**。
 
